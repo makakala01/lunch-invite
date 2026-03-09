@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lunch-invite/static/css/main.f855e6bc.css",
+    "main.js": "/lunch-invite/static/js/main.71f7efb0.js",
+    "static/js/453.7ac81bbb.chunk.js": "/lunch-invite/static/js/453.7ac81bbb.chunk.js",
+    "index.html": "/lunch-invite/index.html",
+    "main.f855e6bc.css.map": "/lunch-invite/static/css/main.f855e6bc.css.map",
+    "main.71f7efb0.js.map": "/lunch-invite/static/js/main.71f7efb0.js.map",
+    "453.7ac81bbb.chunk.js.map": "/lunch-invite/static/js/453.7ac81bbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.71f7efb0.js"
+  ]
+}
